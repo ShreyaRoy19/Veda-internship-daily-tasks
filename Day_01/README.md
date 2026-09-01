@@ -13,3 +13,24 @@ The program accepts the following inputs from the user via the command line:
 
 ## Outputs
 After collecting the data, the program outputs a bordered Profile Card. It utilizes **f-strings** to embed the variables into the print statements and uses built-in string methods like `.title()` and `.capitalize()` to ensure the text looks clean and professional.
+
+
+
+
+## Sample Output
+```text
+Enter your first name: Shreya
+Enter your last name: Roy
+Enter your age: 22
+Enter your current profession or major: student
+What is your favorite hobby? drawing
+
+===================================
+         USER PROFILE CARD         
+===================================
+Name:       Shreya Roy
+Age:        22 years old
+Profession: Student
+Hobby:      Drawing
+===================================
+```
