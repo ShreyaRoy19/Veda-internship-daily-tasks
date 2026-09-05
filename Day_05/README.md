@@ -23,7 +23,7 @@ A Python 3 command-line application where the user guesses a randomly generated 
    cd path/to/your/folder
 ## 📊 Input and Expected Output
 When you run the script, the game will prompt you for your Input (number guesses) and display the corresponding Output based on whether your guess is too high, too low, or correct.
-
+```bash
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 
