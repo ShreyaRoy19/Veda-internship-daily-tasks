@@ -18,4 +18,18 @@ This project contains a Python program that accepts a number from the user and g
 2. Save the Python script (e.g., `multiplication_table.py`).
 3. Run the script from your terminal or command prompt:
    ```bash
-   python multiplication_table.py
+   python multi_table.py
+## Example Output[cite: 1]
+```text
+Welcome to the Multiplication Table Generator![cite: 1]
+
+--- Test Run 1 of 3 ---[cite: 1]
+Enter the number you want a table for: 5[cite: 1]
+Enter the limit (e.g., 10): 5[cite: 1]
+
+--- Multiplication Table for 5 ---[cite: 1]
+5 x  1 = 5[cite: 1]
+5 x  2 = 10[cite: 1]
+5 x  3 = 15[cite: 1]
+5 x  4 = 20[cite: 1]
+5 x  5 = 25[cite: 1]
