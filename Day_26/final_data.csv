@@ -1,0 +1,5 @@
+id,name,price,category,tax_amount
+1,Laptop Pro,1200.0,electronics,216.0
+2,Wireless Mouse,25.0,electronics,4.5
+4,,80.0,office,14.4
+5,Monitor,300.0,nan,54.0
