@@ -1,0 +1,32 @@
+{
+  "extract": {
+    "source_file": "raw_data.csv"
+  },
+  "validate": {
+    "required_columns": ["id", "name", "price", "category"],
+    "non_null_columns": ["id", "price"]
+  },
+  "transform": [
+    {
+      "type": "clean_strings",
+      "columns": ["name", "category"]
+    },
+    {
+      "type": "filter_numeric_range",
+      "column": "price",
+      "min_value": 0
+    },
+    {
+      "type": "add_column",
+      "new_column": "tax_amount",
+      "expression": "price * 0.18"
+    }
+  ],
+  "load": {
+    "output_file": "final_data.csv",
+    "format": "csv"
+  },
+  "logging": {
+    "log_file": "pipeline.log"
+  }
+}
