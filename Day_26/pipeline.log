@@ -1,0 +1,14 @@
+2026-09-26 10:50:01 [INFO] Pipeline configuration loaded successfully.
+2026-09-26 10:50:01 [INFO] ETL Pipeline job triggered.
+2026-09-26 10:50:01 [INFO] Starting EXTRACT phase from: raw_data.csv
+2026-09-26 10:50:01 [INFO] Extracted 5 records.
+2026-09-26 10:50:01 [INFO] Starting VALIDATION phase.
+2026-09-26 10:50:01 [INFO] Validation complete. Valid records remaining: 5
+2026-09-26 10:50:01 [INFO] Starting TRANSFORM phase.
+2026-09-26 10:50:01 [INFO] Trimmed whitespace on columns: ['name', 'category']
+2026-09-26 10:50:01 [INFO] Filtered 'price' between [0, inf]. Dropped 1 records.
+2026-09-26 10:50:01 [INFO] Added calculated column 'tax_amount' via expression: price * 0.18
+2026-09-26 10:50:01 [INFO] Transformation complete. Output record count: 4
+2026-09-26 10:50:01 [INFO] Starting LOAD phase to destination: final_data.csv
+2026-09-26 10:50:01 [INFO] Successfully saved 4 records to final_data.csv.
+2026-09-26 10:50:01 [INFO] ETL Pipeline finished successfully.
