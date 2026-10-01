@@ -18,8 +18,7 @@ A secure, high-performance file upload REST API built with **Python** and **Fast
 ## Project Structure
 
 ```text
-secure-file-upload-api/
-├── safe_storage/            # Target storage location for validated files
+Day_31/
 ├── main.py                  # API endpoints, validation logic, and error handlers
 ├── requirements.txt         # Project dependencies
 └── README.md                # Documentation
