@@ -1,0 +1,47 @@
+[
+  {
+    "id": "INQ101",
+    "client_name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "target": "Cloud Architecture & DevOps Internship",
+    "details": "Interested in prerequisites and cohort start date for the upcoming batch.",
+    "status": "Pending",
+    "created_at": "2026-09-18 10:30:15"
+  },
+  {
+    "id": "INQ102",
+    "client_name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "target": "Full-Stack Web Application Development",
+    "details": "Requesting a quote and timeline for building an e-commerce dashboard.",
+    "status": "In Progress",
+    "created_at": "2026-09-22 14:15:40"
+  },
+  {
+    "id": "INQ103",
+    "client_name": "Rohan Verma",
+    "email": "rohan.v@example.com",
+    "target": "Data Science & Applied AI Internship",
+    "details": "Submitted application documents; verifying receipt of resume.",
+    "status": "Resolved",
+    "created_at": "2026-09-25 11:05:00"
+  },
+  {
+    "id": "INQ104",
+    "client_name": "Kavita Sen",
+    "email": "kavita.sen@example.com",
+    "target": "Cybersecurity Vulnerability Assessment",
+    "details": "Need penetration testing on our internal corporate portal next month.",
+    "status": "Pending",
+    "created_at": "2026-10-01 16:45:22"
+  },
+  {
+    "id": "INQ105",
+    "client_name": "Devansh Patel",
+    "email": "devansh.patel@example.com",
+    "target": "Python Automation & Scripting Intensive",
+    "details": "Corporate group enrollment inquiry for a batch of 8 team members.",
+    "status": "Resolved",
+    "created_at": "2026-10-03 09:20:10"
+  }
+]
