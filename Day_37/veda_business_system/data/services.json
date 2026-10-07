@@ -1,0 +1,37 @@
+[
+  {
+    "id": "S101",
+    "name": "Cloud Infrastructure Setup",
+    "category": "Cloud",
+    "price": 1200.0,
+    "status": "Active"
+  },
+  {
+    "id": "S102",
+    "name": "Full-Stack Web Application Development",
+    "category": "Web",
+    "price": 2500.0,
+    "status": "Active"
+  },
+  {
+    "id": "S103",
+    "name": "Machine Learning Model Deployment",
+    "category": "AI",
+    "price": 3200.0,
+    "status": "Active"
+  },
+  {
+    "id": "S104",
+    "name": "Cybersecurity Vulnerability Assessment",
+    "category": "Security",
+    "price": 1800.0,
+    "status": "Inactive"
+  },
+  {
+    "id": "S105",
+    "name": "API Design & Integration",
+    "category": "Backend",
+    "price": 950.0,
+    "status": "Active"
+  }
+]
