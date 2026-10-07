@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P201",
+    "title": "Cloud Architecture & DevOps Internship",
+    "type": "Internship",
+    "duration_weeks": 12,
+    "available_seats": 15
+  },
+  {
+    "id": "P202",
+    "title": "Full-Stack Web Development Boot Camp",
+    "type": "Training",
+    "duration_weeks": 8,
+    "available_seats": 25
+  },
+  {
+    "id": "P203",
+    "title": "Data Science & Applied AI Internship",
+    "type": "Internship",
+    "duration_weeks": 16,
+    "available_seats": 10
+  },
+  {
+    "id": "P204",
+    "title": "Python Automation & Scripting Intensive",
+    "type": "Training",
+    "duration_weeks": 4,
+    "available_seats": 30
+  },
+  {
+    "id": "P205",
+    "title": "Cybersecurity & Ethical Hacking Internship",
+    "type": "Internship",
+    "duration_weeks": 10,
+    "available_seats": 12
+  }
+]
